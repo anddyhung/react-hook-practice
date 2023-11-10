@@ -28,11 +28,6 @@ function FavoriteAnimal() {
   )
 }
 
-// 🐨 uncomment this
-// function Display({name, animal}) {
-//   return <div>{`Hey ${name}, your favorite animal is: ${animal}!`}</div>
-// }
-
 // 💣 remove this component in favor of the new one
 function Display({name}) {
   return <div>{`Hey ${name}, you are great!`}</div>
