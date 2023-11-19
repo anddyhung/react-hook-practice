@@ -1,5 +1,5 @@
 // useEffect: HTTP requests
-// http://localhost:3000/isolated/exercise/06.js
+
 
 import * as React from 'react'
 // 🐨 you'll want the following additional things from '../pokemon':
