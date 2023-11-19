@@ -1,5 +1,4 @@
 // useEffect: persistent state
-// http://localhost:3000/isolated/exercise/02.js
 
 import * as React from 'react'
 
