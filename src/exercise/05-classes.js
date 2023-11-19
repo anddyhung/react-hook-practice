@@ -1,6 +1,5 @@
 // useRef and useEffect: DOM interaction
 // 💯 (alternate) migrate from classes
-// http://localhost:3000/isolated/exercise/05-classes.js
 
 import * as React from 'react'
 import VanillaTilt from 'vanilla-tilt'
